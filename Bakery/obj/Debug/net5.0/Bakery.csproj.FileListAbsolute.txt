@@ -1,0 +1,12 @@
+/Users/nickb/Desktop/Pierres.Solution/Bakery/obj/Debug/net5.0/Bakery.csproj.AssemblyReference.cache
+/Users/nickb/Desktop/Pierres.Solution/Bakery/obj/Debug/net5.0/Bakery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickb/Desktop/Pierres.Solution/Bakery/obj/Debug/net5.0/Bakery.AssemblyInfoInputs.cache
+/Users/nickb/Desktop/Pierres.Solution/Bakery/obj/Debug/net5.0/Bakery.AssemblyInfo.cs
+/Users/nickb/Desktop/Pierres.Solution/Bakery/obj/Debug/net5.0/Bakery.csproj.CoreCompileInputs.cache
+/Users/nickb/Desktop/Pierres.Solution/Bakery/bin/Debug/net5.0/Bakery.deps.json
+/Users/nickb/Desktop/Pierres.Solution/Bakery/bin/Debug/net5.0/Bakery.dll
+/Users/nickb/Desktop/Pierres.Solution/Bakery/bin/Debug/net5.0/ref/Bakery.dll
+/Users/nickb/Desktop/Pierres.Solution/Bakery/bin/Debug/net5.0/Bakery.pdb
+/Users/nickb/Desktop/Pierres.Solution/Bakery/obj/Debug/net5.0/Bakery.dll
+/Users/nickb/Desktop/Pierres.Solution/Bakery/obj/Debug/net5.0/ref/Bakery.dll
+/Users/nickb/Desktop/Pierres.Solution/Bakery/obj/Debug/net5.0/Bakery.pdb
