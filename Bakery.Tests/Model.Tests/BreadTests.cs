@@ -19,6 +19,17 @@ namespace Bakery.Tests
       Assert.AreEqual(totalUserOrder, newBread.OrderQuantity);
       Assert.AreEqual(totalCost, newBread.Cost);
     }
-    
+
+    [TestMethod]
+      public void SetBreadOrder_CalculateUserOrderWithoutDiscount_Int()
+    {
+      int orderQuantity = 2;
+      double cost = 10;
+      Bread newBread = new Bread(orderQuantity, cost);
+      int totalUserOrder = newBread.OrderQuantity;
+      double totalCost = newBread.Cost;
+      Assert.AreEqual(totalUserOrder, newBread.OrderQuantity);
+      Assert.AreEqual(totalCost, 10);
+    }
   }
 }
