@@ -30,5 +30,17 @@ namespace Bakery.Tests
       Assert.AreEqual(totalUserOrder, newPastry.OrderQuantity);
       Assert.AreEqual(totalCost, 2);
     }
+
+    [TestMethod]
+    public void SetPastryOrder_CalculateOrderWithDiscount_IntDouble()
+    {
+      int orderQuantity = 6;
+      double cost = 10;
+      Pastry newPastry = new Pastry(orderQuantity, cost);
+      int totalUserOrder = newPastry.OrderQuantity;
+      double totalCost = newPastry.Cost;
+      Assert.AreEqual(totalUserOrder, newPastry.OrderQuantity);
+      Assert.AreEqual(totalCost, 10);
+    }
   }
 }
