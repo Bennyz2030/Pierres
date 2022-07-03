@@ -46,4 +46,13 @@ namespace Bakery
     strint menuChoice = Console.ReadLine().ToUpper();
     TopMenu();
   }
+
+  public void PastryOrder()
+  {
+    Console.WriteLine("Pastries are $2 each, or get 3 for $5!");
+      Console.WriteLine("How many would you like?");
+
+      int orderQuantity = 0;
+      string userInput = Console.ReadLine();
+  }
 }
