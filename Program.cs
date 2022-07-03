@@ -39,4 +39,11 @@ namespace Bakery
     }
     TopMenu();
   }
+
+  public NextQuestion()
+  {
+    Console.WriteLine("Would you like to order some pastries? Type Y for Yes, or N for No")
+    strint menuChoice = Console.ReadLine().ToUpper();
+    TopMenu();
+  }
 }
