@@ -55,4 +55,10 @@ namespace Bakery
       int orderQuantity = 0;
       string userInput = Console.ReadLine();
   }
+
+  public void FinalTotal()
+  {
+    double totalOutput = bread.Cost + pastry.Cost;
+    Console.WriteLine($"Your toal today is ${totalOutput}. Have an amazing day!");
+  }
 }
